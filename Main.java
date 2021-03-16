@@ -3399,3 +3399,11 @@ public class Theatre
 
 
 // So, uh, do you think we can get a solid 100% on this? We spent a lot of time on it, and it would be very nice to get great marks on it :)
+
+
+
+
+
+/*
+    It should be noted that this program utilizes the HSA package. Also, this was written using the RTP Java IDE.
+*/
